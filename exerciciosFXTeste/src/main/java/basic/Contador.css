@@ -1,0 +1,33 @@
+.conteudo{
+    -fx-background-color: black;
+    -fx-font-family: "Poppins";
+    -fx-text-fill: #aaaaaa;
+}
+.titulo{
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 36px;
+}
+
+
+.numero{
+    -fx-text-fill: #eee;
+    -fx-font-size: 22px;
+}
+
+.botoes{
+    -fx-background-color: black;
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 24px;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-background-radius: 30px;
+
+}
+
+.verde{
+    -fx-text-fill: #32c921;
+}
+
+.vermelho{
+    -fx-text-fill: #c92121;
+}
